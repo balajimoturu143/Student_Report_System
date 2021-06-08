@@ -1,0 +1,7 @@
+Student Report is a simple computer program designed to help teachers to generate students report after every session. 
+
+The whole program is designed in this way that you can expand it up to any level. Initially it is used to feed students information.
+
+Modification, deletion and searching, reporting facility is given in this project for easy management.
+
+This program is fact and accurate, since it is written in one of the oldest programming Language (C++).
